@@ -1,2 +1,0 @@
-# yuki
-yesoryes
